@@ -63,7 +63,7 @@ body {
   position: relative;
   width: 100%;
   height: 600px;
-  background: url("../img/background-kaer-morhen.png");
+  background: url("../img/background-kaer-morhen.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
@@ -104,8 +104,8 @@ body {
 }
 
 #apresentation img {
-  width: 25vw;
-  height: 50vh;
+  width: 400px;
+  height: 400px;
   margin-left: 10px;
   float: left;
   margin-right: 10px; 
